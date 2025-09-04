@@ -15,3 +15,4 @@ This project aims to create an AI automation dashboard that can process data, ru
 3. Explore AI experiments in `notebooks/`.
 4. View outputs and visualizations in `reports/`.
 
+## starting practising Git commands 
